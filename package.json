@@ -1,0 +1,16 @@
+{
+  "name": "winston-rotate-logs-locked-file",
+  "version": "0.1.0",
+  "description": "Test app to demonstrate problems with locked log files on Windows",
+  "main": "index.mjs",
+  "repository": "https://github.com/rmorlok/winston-rotate-logs-locked-file",
+  "author": "Ryan Morlok",
+  "license": "MIT",
+  "scripts": {
+    "demo": "node index.mjs"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
